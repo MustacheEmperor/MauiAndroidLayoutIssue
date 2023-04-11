@@ -1,0 +1,1 @@
+Q:\dotNETProjects\MauiAndroidLayoutIssue\AndroidLayoutIssue.csproj;x64
